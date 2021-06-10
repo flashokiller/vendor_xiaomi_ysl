@@ -942,7 +942,6 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
-    QtiTelephonyService \
     datastatusnotification \
     embms \
     dpmserviceapp \
